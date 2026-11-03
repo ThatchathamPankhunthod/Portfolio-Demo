@@ -1,0 +1,52 @@
+{
+  "id": "p-sample-1",
+  "name": "Nok (ตัวอย่าง)",
+  "enjoy": "ชอบออกแบบหน้าเว็บและจัดวางตัวอักษรให้อ่านง่าย",
+  "tried": "เคยทำเว็บส่วนตัว 1 หน้า และโปสเตอร์ชมรมด้วย Canva",
+  "curious": "อยากรู้ว่า JavaScript เก็บข้อมูลในเบราว์เซอร์ได้อย่างไร",
+  "items": [
+    {
+      "id": "item001",
+      "title": "My First Website",
+      "type": "Course Assignment",
+      "date": "2026-10-18",
+      "role": "Developer",
+      "description": "Created a personal website with HTML and CSS",
+      "skills": [
+        "HTML",
+        "CSS"
+      ],
+      "reflection": {
+        "whatIDid": "Built the website",
+        "whatILearned": "Responsive design",
+        "challenge": "Mobile layout",
+        "nextStep": "Improve the design"
+      },
+      "evidence": [
+        "https://example.com/my-first-website"
+      ]
+    },
+    {
+      "id": "item002",
+      "title": "Club Poster",
+      "type": "Club Activity",
+      "date": "2026-09-12",
+      "role": "Designer",
+      "description": "Designed a poster for the photography club open house",
+      "skills": [
+        "Canva",
+        "Typography"
+      ],
+      "reflection": {
+        "whatIDid": "Drafted three layouts and picked one with the team",
+        "whatILearned": "Contrast and spacing make text easier to read",
+        "challenge": "Fitting all event details on one page",
+        "nextStep": "Try a grid layout next time"
+      },
+      "evidence": [
+        "https://example.com/club-poster",
+        "https://example.com/club-poster-draft"
+      ]
+    }
+  ]
+}
